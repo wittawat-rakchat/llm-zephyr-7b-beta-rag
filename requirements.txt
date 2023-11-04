@@ -7,3 +7,4 @@ langchain==0.0.285
 pypdf
 PyPDF2
 torchvision
+gradio
