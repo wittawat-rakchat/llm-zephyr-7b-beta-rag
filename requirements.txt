@@ -1,0 +1,9 @@
+chainlit
+ctransformers
+torch
+sentence_transformers
+chromadb
+langchain==0.0.285
+pypdf
+PyPDF2
+torchvision
